@@ -1,5 +1,5 @@
 # 콘솔에서 warning 뜰 때 ==> set FLASK_ENV=development
-
+# set flask_APP=pybo
 # 경로 ==> 상대경로 => 자기자신 기준
 #      ==> 절대경로 => 루트(최상위) 기준
 # (절대경로)from test import num1 ==>실행
