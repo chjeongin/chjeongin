@@ -23,3 +23,8 @@ class Person(db.model) :
 # p1 = Person("Chunsic", 1, "서울")        
 
 # print(p1.name)
+
+
+
+
+# question = db.relationship('Question', backref=db.backref('answer_set')) --> 역참조
